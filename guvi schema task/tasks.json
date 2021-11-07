@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "618692d0dd9ed3b55b358c72"
+  },
+  "task_id": 1,
+  "task_name": "task1",
+  "task_date": "10-OCT-2021",
+  "completed_by": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
+    9
+  ]
+},{
+  "_id": {
+    "$oid": "61869314dd9ed3b55b358c73"
+  },
+  "task_id": 2,
+  "task_name": "task2",
+  "task_date": "11-OCT-2021",
+  "completed_by": [
+    1,
+    3,
+    4,
+    8,
+    9,
+    6
+  ]
+},{
+  "_id": {
+    "$oid": "61869326dd9ed3b55b358c74"
+  },
+  "task_id": 3,
+  "task_name": "task3",
+  "task_date": "18-OCT-2021",
+  "completed_by": [
+    1,
+    4,
+    5,
+    7,
+    8,
+    9
+  ]
+},{
+  "_id": {
+    "$oid": "6186933cdd9ed3b55b358c75"
+  },
+  "task_id": 4,
+  "task_name": "task4",
+  "task_date": "19-OCT-2021",
+  "completed_by": [
+    3,
+    4,
+    7,
+    8,
+    9
+  ]
+},{
+  "_id": {
+    "$oid": "6186934ddd9ed3b55b358c76"
+  },
+  "task_id": 5,
+  "task_name": "task5",
+  "task_date": "26-OCT-2021",
+  "completed_by": [
+    1,
+    2,
+    8,
+    9
+  ]
+},{
+  "_id": {
+    "$oid": "6186935ddd9ed3b55b358c77"
+  },
+  "task_id": 6,
+  "task_name": "task6",
+  "task_date": "27-OCT-2021",
+  "completed_by": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
+    9
+  ]
+}]

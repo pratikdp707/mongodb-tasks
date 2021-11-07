@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6186905add9ed3b55b358c56"
+  },
+  "user_id": 1,
+  "username": "a",
+  "email": "a@gmail.com",
+  "password": "a123",
+  "fname": "A",
+  "lname": "guvi"
+},{
+  "_id": {
+    "$oid": "618690badd9ed3b55b358c57"
+  },
+  "user_id": 2,
+  "username": "b",
+  "email": "b@gmail.com",
+  "password": "b123",
+  "fname": "B",
+  "lname": "guvi"
+},{
+  "_id": {
+    "$oid": "618690cedd9ed3b55b358c58"
+  },
+  "user_id": 3,
+  "username": "c",
+  "email": "c@gmail.com",
+  "password": "c123",
+  "fname": "C",
+  "lname": "guvi"
+},{
+  "_id": {
+    "$oid": "618690f3dd9ed3b55b358c59"
+  },
+  "user_id": 4,
+  "username": "d",
+  "email": "d@gmail.com",
+  "password": "d123",
+  "fname": "D",
+  "lname": "guvi"
+},{
+  "_id": {
+    "$oid": "6186910ddd9ed3b55b358c5a"
+  },
+  "user_id": 5,
+  "username": "e",
+  "email": "e@gmail.com",
+  "password": "e123",
+  "fname": "E",
+  "lname": "guvi"
+},{
+  "_id": {
+    "$oid": "6186911add9ed3b55b358c5b"
+  },
+  "user_id": 6,
+  "username": "f",
+  "email": "f@gmail.com",
+  "password": "f123",
+  "fname": "F",
+  "lname": "guvi"
+},{
+  "_id": {
+    "$oid": "6186913fdd9ed3b55b358c5d"
+  },
+  "user_id": 7,
+  "username": "G",
+  "email": "g@gmail.com",
+  "password": "g123",
+  "fname": "G",
+  "lname": "guvi"
+}]
